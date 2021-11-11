@@ -4,3 +4,4 @@ test用
 
 shimada-suで入力
 sozoshimaが入力
+sozoshimaTest2
