@@ -9,3 +9,4 @@ sozoshimaTest2
 
 
 1300shimada-su
+1310sozoshima
