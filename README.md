@@ -6,3 +6,6 @@ shimada-suで入力
 sozoshimaが入力
 sozoshimaTest2
 1230 test
+
+
+1300shimada-su
